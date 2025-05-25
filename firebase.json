@@ -3,11 +3,11 @@
     "platforms": {
       "dart": {
         "lib/firebase_options.dart": {
-          "projectId": "pdf-tool-buddy",
+          "projectId": "",
           "configurations": {
-            "android": "1:341640548509:android:e4a32a4f92a349d3b68474",
-            "web": "1:341640548509:web:8bd85c568510ed5db68474",
-            "windows": "1:341640548509:web:321345113902d0f0b68474"
+            "android": "",
+            "web": "",
+            "windows": ""
           }
         }
       }
