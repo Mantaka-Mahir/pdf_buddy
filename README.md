@@ -1,5 +1,6 @@
 # PDF Buddy
 live: https://pdf-tool-buddy.web.app/
+<br>
 A powerful web-based PDF editor built with Flutter Web that allows users to merge, split, and manipulate PDF files directly in their browser. PDF Buddy is designed as a Progressive Web App (PWA) with offline capabilities and client-side processing for maximum privacy.
 
 ## 🚀 Features
